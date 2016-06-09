@@ -1,0 +1,1 @@
+powershell -noexit C:\Users\NYCPM\Desktop\autovod\smash4_watcher.ps1

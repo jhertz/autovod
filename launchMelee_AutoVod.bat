@@ -1,0 +1,1 @@
+powershell -noexit C:\Users\NYCPM\Desktop\autovod\Melee_watcher.ps1

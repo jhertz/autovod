@@ -1,0 +1,1 @@
+powershell -noexit C:\Users\NYCPM\Desktop\autovod\PM_watcher.ps1
