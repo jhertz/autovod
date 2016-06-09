@@ -7,9 +7,9 @@ jokes aside, this is pretty bad code. its mostly copy-pasted stuff (all sources 
 
 ## what it is
 
-* python script which takes in a filename MP4, monitors it til it stops growing, then parses a streamcontrol xml file to figure out a title, then uploads it to youtube 
-* powershell (seemed like the fastest way to do it at the time, don't judge me) script which watches a folder, then calls the python script when a file is created
-* batch script (see previous comment) to start the powershell watcher
+* python script which takes in a filename, monitors it til it stops growing, then parses a streamcontrol.xml file to figure out a title, then uploads it to youtube 
+* powershell (seemed like the fastest way to do it at the time, don't judge me) script which watches a folder, then calls the python script when an mp4 file is created
+* windows batch script (see previous comment) to start the powershell watcher
 
 
 i swear i can write good code, this is not it. having a version of this per game is just one indicator that this is a slapped together hack. another is the use of 3 languages, and a 10 second sleep loop to figure out when a file is done. NEVERTHELESS IT WORKS
