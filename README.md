@@ -23,4 +23,4 @@ youre going to need to modify this to be able to use it. almost all paths (paths
 none. any questions about this will be ignored, or answered (rudely). you should probably find someone who knows a decent bit about computers if youre going to try and use this on your system.
 
 ## license
-you can do whatever the hell you want with this code
+MIT License. you can do whatever the hell you want with this code
